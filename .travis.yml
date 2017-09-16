@@ -1,0 +1,13 @@
+language: go
+
+go:
+  - 1.6
+  - 1.7.x
+  - master
+  
+before_install:
+  - cd client
+  - godep get
+
+script:
+  - go test -v ./goth/...
