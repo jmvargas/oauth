@@ -1,4 +1,4 @@
-# Backend Developer Test
+# Backend Developer Test [![Build Status](https://travis-ci.org/jmvargas/oauth.svg?branch=master)](https://travis-ci.org/jmvargas/oauth)
 
 ## Introduction
 The intention of the exercise is to test your ability to resolve a complex problem we could find in the real world. We are asking you to create a [Goth](https://github.com/markbates/goth/) provider for a mock oauth2 server that we have created. We are giving you both the oauth2 server and a skeleton for the goauth provider.
