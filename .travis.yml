@@ -1,9 +1,9 @@
 language: go
 
 go:
-  - 1.6
   - 1.7.x
-  - master
+  - 1.8.x
+  - 1.9.x
   
 before_install:
   - go get github.com/tools/godep
