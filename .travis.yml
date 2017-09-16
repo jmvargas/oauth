@@ -6,8 +6,9 @@ go:
   - master
   
 before_install:
+  - go get github.com/tools/godep
   - cd client
   - godep get
 
 script:
-  - go test -v ./goth/... 
+  - go test -v ./goth/...
