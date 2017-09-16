@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/jpgriffo/oauth/client",
+	"ImportPath": "github.com/jmvargas/oauth/client",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v74",
 	"Deps": [
